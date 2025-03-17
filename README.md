@@ -1,16 +1,10 @@
 # EverydayCafe
+ ![image](https://github.com/user-attachments/assets/5d6a31c0-da0f-4b8b-9414-3ce34024977b)
+ ![image](https://github.com/user-attachments/assets/aa4393a3-4a7d-4cf1-b690-b5aa20a3489c)
+![image](https://github.com/user-attachments/assets/0878591b-c891-423f-b524-153cff9f6a69)
+![image](https://github.com/user-attachments/assets/956b09e5-0177-4dc0-9303-f08668abdcd9)
+![image](https://github.com/user-attachments/assets/1a6abcc2-62aa-4492-abbc-0580461119a6)
 
-A new Flutter project.
+ ![image](https://github.com/user-attachments/assets/3e922153-d071-4dc1-8259-11e2dc81dbf1)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
