@@ -1,4 +1,4 @@
-# miniproject
+# EverydayCafe
 
 A new Flutter project.
 
